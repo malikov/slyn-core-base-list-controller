@@ -1,0 +1,26 @@
+{
+  "name": "slyn-core-base-list-controller",
+  "version": "0.0.1",
+  "description": "slyn-core-base-list-controller",
+  "main": "lib/index.js",
+  "keywords": [
+    "slyn-page-manager"
+  ],
+  "homepage": "https://github.com/malikov/slyn-core-base-list-controller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-core-base-list-controller"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "dependencies": {
+    "q": "~1.4.1",
+    "slyn-core-base-controller": "git://github.com/malikov/slyn-core-base-controller.git#master"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-core-base-list-controller/issues"
+  }
+}
