@@ -1,6 +1,6 @@
 {
   "name": "slyn-core-base-list-controller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "slyn-core-base-list-controller",
   "main": "lib/index.js",
   "keywords": [
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "q": "~1.4.1",
-    "slyn-core-base-controller": "git://github.com/malikov/slyn-core-base-controller.git#master"
+    "slyn-core-base-controller": "~0.0.1"
   },
   "license": "MIT",
   "bugs": {
