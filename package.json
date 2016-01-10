@@ -1,10 +1,10 @@
 {
   "name": "slyn-core-base-list-controller",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "slyn-core-base-list-controller",
   "main": "lib/index.js",
   "keywords": [
-    "slyn-page-manager"
+    "slyn-core-base-list-controller"
   ],
   "homepage": "https://github.com/malikov/slyn-core-base-list-controller",
   "repository": {
@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "q": "~1.4.1",
-    "slyn-core-base-controller": "~0.0.1"
+    "slyn-core-base-controller": "~0.0.5",
+    "slyn-data-binder": "~0.0.2"
   },
   "license": "MIT",
   "bugs": {
